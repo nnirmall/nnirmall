@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nirmal.
-  I'm a passionate Software Developer.
-- 🔭 I’m currently working on enhancing my skills.
-- 📫 How to reach me: [nnirmallbhandari@gmail.com](mailto:nnirmallbhandari@gmail.com)
+  I'm a passionate Software Developer. Currently working on enhancing my skills.
+<!--- - 🔭 I’m currently working on enhancing my skills.
+📫 How to reach me: [nnirmallbhandari@gmail.com](mailto:nnirmallbhandari@gmail.com)
 <!--
 **nnirmall/nnirmall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
