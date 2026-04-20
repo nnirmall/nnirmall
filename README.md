@@ -1,6 +1,6 @@
 <div align="left">
 
-# $\mathcal{Nirmal Bhandari]}$
+# $\mathcal{Nirmal Bhandari}$
 $\text{Data Engineer} \ | \ \text{Analyst, and Researcher}$
 
 ---
